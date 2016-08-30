@@ -10,6 +10,10 @@
 	
 	mix escript.build
 
+## Test
+
+    mix test
+
 ## Usage
 	
 	./pke --data=<some data>
